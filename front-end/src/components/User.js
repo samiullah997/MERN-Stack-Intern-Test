@@ -5,7 +5,6 @@ const User = () => {
     <div className='container'>
         <div className='row'>
             <ul>
-                <li>first user</li>
             </ul>
         </div>
     </div>
