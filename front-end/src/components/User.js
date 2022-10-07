@@ -8,7 +8,6 @@ const User = () => {
                 <li>User 1</li>
                 <li>User 1</li>
                 <li>User 1</li>
-                <li>User 1</li>
             </ul>
         </div>
     </div>
