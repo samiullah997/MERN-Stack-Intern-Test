@@ -6,6 +6,7 @@ const User = () => {
         <div className='row'>
             <ul>
                 <li>User 1</li>
+                <li>User 1</li>
             </ul>
         </div>
     </div>
