@@ -7,6 +7,7 @@ const ItemsList = () => {
             <ul>
                 <li>Item First</li>
                 <li>Item Second</li>
+                <li>Item Third</li>
             </ul>
         </div>
         
