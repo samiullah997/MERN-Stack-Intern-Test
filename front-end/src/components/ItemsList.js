@@ -2,7 +2,12 @@ import React from 'react'
 
 const ItemsList = () => {
   return (
-    <div>ItemsList</div>
+    <div className='container'>
+        <div className='row'>
+
+        </div>
+        
+    </div>
   )
 }
 
