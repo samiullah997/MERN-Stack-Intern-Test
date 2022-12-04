@@ -16,7 +16,7 @@ const Carousel = () => {
           outsideChevron
           chevronWidth={chevronWidth}
         >
-          <div style={{ height: 200, background: '#EEE' }}>First card</div>
+          <div style={{ height: 200, background: '#EEE' }}>First</div>
           <div style={{ height: 200, background: '#EEE' }}>Second card</div>
           <div style={{ height: 200, background: '#EEE' }}>Third card</div>
           <div style={{ height: 200, background: '#EEE' }}>Fourth card</div>
