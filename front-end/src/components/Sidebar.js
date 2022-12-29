@@ -39,7 +39,7 @@ const Sidebar = () => {
                     <li className='nav-item text-white fs-4'>
                         <a href='#' className='nav-link text-black fs-5' aria-current="page">
                             <i class="bi bi-cart-dash"></i>
-                            <span className='ms-2'>MLS Lists</span>
+                            <span className='ms-2'>MLS</span>
                         </a>
                     </li>
                     <li className='nav-item text-white fs-4'>
