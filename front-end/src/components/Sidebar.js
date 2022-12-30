@@ -33,7 +33,7 @@ const Sidebar = () => {
                     <li className='nav-item text-white fs-4'>
                         <a href='#' className='nav-link text-black fs-5' aria-current="page">
                             <i class="bi bi-people"></i>
-                            <span className='ms-2'>Clients</span>
+                            <span className='ms-2'>My Clients</span>
                         </a>
                     </li>
                     <li className='nav-item text-white fs-4'>
