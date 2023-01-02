@@ -21,7 +21,7 @@ const Sidebar = () => {
                     <li className='nav-item text-white fs-4'>
                         <a href='/user/hello' className='nav-link text-black fs-5' aria-current="page">
                             <i class="bi bi-search"></i>
-                            <span className='ms-2'>Search Property</span>
+                            <span className='ms-2'>Search</span>
                         </a>
                     </li>
                     <li className='nav-item text-white fs-4'>
