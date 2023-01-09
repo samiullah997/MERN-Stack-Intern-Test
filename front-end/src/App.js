@@ -20,7 +20,6 @@ function App() {
           <Route index path="/user/home1" element={"Home1"} />
           <Route index path="/user/home2" element={"Home2"} />
           <Route index path="/user/home3" element={"Home3"} />
-          <Route index path="/user/home4" element={"Home4"} />
         </Route>
       </Routes>
     </div>
