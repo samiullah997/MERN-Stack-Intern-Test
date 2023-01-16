@@ -22,7 +22,6 @@ function App() {
           <Route index path="/user/home3" element={"Home3"} />
           <Route index path="/user/home4" element={"Home4"} />
           <Route index path="/user/home5" element={"Home5"} />
-          <Route index path="/user/home6" element={"Home6"} />
         </Route>
       </Routes>
     </div>
