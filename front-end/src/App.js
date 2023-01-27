@@ -18,6 +18,7 @@ function App() {
         <Route element={<SidebarLayout />}>
           <Route index path="/user/home" element={<Home />} />
           <Route index path="/user/home1" element={"Home1"} />
+          <Route index path="/user/home2" element={"Home2"} />
         </Route>
       </Routes>
     </div>
