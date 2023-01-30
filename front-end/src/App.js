@@ -18,7 +18,6 @@ function App() {
         <Route element={<SidebarLayout />}>
           <Route index path="/user/home" element={<Home />} />
           <Route index path="/user/about" element={"About Page"} />
-          <Route index path="/user/contact" element={"Contact Page"} />
         </Route>
       </Routes>
     </div>
