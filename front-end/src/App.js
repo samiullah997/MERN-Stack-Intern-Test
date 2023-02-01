@@ -19,7 +19,6 @@ function App() {
           <Route index path="/user/home" element={<Home />} />
           <Route index path="/user/about" element={"About Page"} />
           <Route index path="/user/contact" element={"Contact Page"} />
-          <Route index path="/user/skill" element={"skill Page"} />
         </Route>
       </Routes>
     </div>
