@@ -17,7 +17,6 @@ function App() {
       <Routes>
         <Route element={<SidebarLayout />}>
           <Route index path="/user/dashboard" element={<Home />} />
-          <Route index path="/user/hello" element={<h1>Hello</h1>} />
         </Route>
       </Routes>
     </div>
