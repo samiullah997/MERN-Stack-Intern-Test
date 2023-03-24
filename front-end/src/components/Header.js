@@ -17,8 +17,8 @@ const Header = () => {
                     <div className='row'>
                         <img className='img rounded' src={profileLogo} />
                         <div className='col-sm-2'>
-                            <span className='pro-name'>Berkay Erdinc</span>
-                            <span className='pro-email'>hi@berkayerdinc.com</span>
+                            <i className='pro-name'>Berkay Erdinc</i><br/>
+                            <i className='pro-email'>hi@berkayerdinc.com</i>
                         </div>
                     </div>
                     <a class="navbar-brand mt-4"><i class="bi bi-chevron-down"></i></a>
