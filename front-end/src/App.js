@@ -16,7 +16,7 @@ function App() {
     <div className="body-style">
       <Routes>
         <Route element={<SidebarLayout />}>
-          <Route index path="/user/dashboard" element={<Home />} />
+          <Route index path="/user/home" element={<Home />} />
         </Route>
       </Routes>
     </div>
