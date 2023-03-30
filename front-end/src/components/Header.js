@@ -7,7 +7,7 @@ const Header = () => {
             <div class="container-fluid">
                 <div>
                     <a class="bg-white rounded p-2 navbar-brand"><i class="bi bi-chevron-left"></i></a>
-                    <span>2218 Thornridge Cir..</span>
+                    <span>2218 Thornridge Cir</span>
                 </div>
                 <div class="d-flex">
                     <a class="navbar-brand"><i class="bi bi-bell"></i></a>
@@ -17,8 +17,8 @@ const Header = () => {
                     <div className='row'>
                         <img className='img rounded' src={profileLogo} />
                         <div className='col-sm-2'>
-                            <i className='pro-name'>samiullah</i><br/>
-                            <i className='pro-email'>sami@berkayerdinc.com</i>
+                            <i className='pro-name'>sami</i><br/>
+                            <i className='pro-email'>sami@gmail.com</i>
                         </div>
                     </div>
                     <a class="navbar-brand mt-4"><i class="bi bi-chevron-down"></i></a>
