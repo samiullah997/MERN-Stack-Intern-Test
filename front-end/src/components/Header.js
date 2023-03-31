@@ -7,7 +7,7 @@ const Header = () => {
             <div class="container-fluid">
                 <div>
                     <a class="bg-white rounded p-2 navbar-brand"><i class="bi bi-chevron-left"></i></a>
-                    <span>2218 Thornridge Cir</span>
+                    <span>2218 Thornridge Cir...</span>
                 </div>
                 <div class="d-flex">
                     <a class="navbar-brand"><i class="bi bi-bell"></i></a>
